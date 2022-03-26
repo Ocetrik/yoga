@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cbf1fc4-5c99-4664-84de-e86c46dfb3c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/index.54fc7810e80cfc88b8c4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/index.d907f15a54b63979acf3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/index.0ee72b060a5e8de96259.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/vendors.0ee72b060a5e8de96259.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/vendors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Caveat-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Geometria-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Geometria-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Geometria-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MaterialIcons-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Caveat-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Caveat-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VKontakte.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/VectorPrev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/additional1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/additional2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blockDirection.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footerImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/imgReciewOurteam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/inputRecord.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/instructorCard.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/instructorDescription.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mainDirection.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mainOurTeam.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mainOurTeamDicoration.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mainReview.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/mainSeasonTicket.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pageSeparator.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/reviewBlock.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/seasonTicketBlock.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/seasonTicketСlouds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/socialIcons.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZPBwwb4AQtqEeIjm8lY4X3Obgf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cbf1fc4-5c99-4664-84de-e86c46dfb3c0" name="Default Changelist" comment="" />
+      <created>1586264859446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586264859446</updated>
+      <workItem from="1586264861053" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="292" key="Vcs.Push.Dialog.v2" timestamp="1584731149303">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="496" y="292" key="Vcs.Push.Dialog.v2/1920.311.1280.1024/0.22.1920.1058@0.22.1920.1058" timestamp="1584731149303" />
+  </component>
+</project>
